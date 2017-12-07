@@ -6,7 +6,7 @@ google_analytics:
 theme: jekyll-theme-hacker
 
 # needed for jekyll-sitemap generator
-url: "https://duksctf.github.io" 
+url: "https://mehran.github.io/blog.mehran.co/" 
 
 # logo
 avatar: /assets/images/jekyll-logo.svg 
